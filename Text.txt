@@ -1,1 +1,1 @@
-This is the practice set for getting familier with Git
+This is the practice set for getting familier with Git, and I'm practicing on it
